@@ -23,6 +23,8 @@ A modern Android Manga Reader application built with **Kotlin** and **XML**, des
 ---
 
 ## 📸 Screenshots
+[home_page] (https://github.com/MennaouiAyman66/Manga-Reader/blob/9227622c40b7985b4ed757f36436256d67c05028/home.PNG)
+
 
 
 
